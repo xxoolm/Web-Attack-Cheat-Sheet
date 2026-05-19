@@ -1752,6 +1752,12 @@ https://github.com/KeygraphHQ/shannon
 https://github.com/cisco-ai-defense
 <br># Open Source projects for the Cisco AI Defense community.
 
+https://github.com/evilsocket/audit
+<br># An 8-stage vulnerability-discovery agent, driven by your Claude Pro / Max subscription through the official Claude Code Agent SDK.
+
+https://gist.github.com/evilsocket/321cece82ec80c17d9126f5c035bc2ea
+<br># You are an expert software engineer and offensive security practitioner conducting a security audit of this codebase. Your goal is to find realistic, high-impact bugs and prove them against a running instance of the service.
+
 ## General<a name="general_all"></a>
 <br># Print only response headers for any method with curl
 <br>```curl -skSL -D - https://www.example.com -o /dev/null```
