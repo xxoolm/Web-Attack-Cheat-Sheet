@@ -1216,6 +1216,9 @@ https://github.com/firefart/stunner
 <br># Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. TURN is a protocol mostly used in videoconferencing and audio chats (WebRTC).
 <br>```stunner info -s x.x.x.x:443```
 
+https://github.com/nxenon/h3spacex
+<br># H3SpaceX library is manipulated version of quic-go to enable the Single Packet Attack (Last Frame Synchronization) in HTTP/3 (QUIC).
+
 ## Manual
 
 ### Payloads
