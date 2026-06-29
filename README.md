@@ -815,6 +815,12 @@ https://www.wiz.io/blog/github-actions-security-threat-model-and-defenses
 https://www.wiz.io/blog/github-actions-security-ai-powered-actions-vulnerabilities
 <br># This two-part blog series provides the threat model, three main risks (Pull Request pwnage, script injection, 3rd party components), and defensive playbook. This deeper understanding offers you a roadmap for developing a security strategy best suited to your environment. The series is for those with a general security background but only foundational knowledge of GitHub security.
 
+https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/
+https://securitylab.github.com/resources/github-actions-untrusted-input/
+https://securitylab.github.com/resources/github-actions-building-blocks/
+https://securitylab.github.com/resources/github-actions-new-patterns-and-mitigations/
+<br># Series of posts about GitHub Actions security.
+
 ### Dependency Confusion
 https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
 <br># How I Hacked Into Apple, Microsoft and Dozens of Other Companies.
